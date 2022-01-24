@@ -219,6 +219,7 @@
     "wpackagist-plugin/recaptcha-for-mw-wp-form": "*",
     "wpackagist-plugin/seo-simple-pack": "*",
     "wpackagist-plugin/tablepress": "*",
+    "wpackagist-plugin/vk-block-patterns": "*",
     "wpackagist-plugin/wordpress-importer": "*",
     "wpackagist-plugin/wp-dashboard-notes": "*",
     "wpackagist-plugin/wp-fastest-cache": "*",
