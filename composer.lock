@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9dcd633f78a84ec4862d0a8f8face929",
+    "content-hash": "eb43b1ee3d64508981d177a38354e725",
     "packages": [
         {
             "name": "advanced-custom-fields/advanced-custom-fields-pro",
@@ -1272,6 +1272,24 @@
             "time": "2021-12-12T23:22:04+00:00"
         },
         {
+            "name": "wpackagist-plugin/admin-menu-editor",
+            "version": "1.10",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/admin-menu-editor/",
+                "reference": "tags/1.10"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/admin-menu-editor.1.10.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/admin-menu-editor/"
+        },
+        {
             "name": "wpackagist-plugin/adminimize",
             "version": "1.11.7",
             "source": {
@@ -1558,6 +1576,24 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/tablepress/"
+        },
+        {
+            "name": "wpackagist-plugin/tinymce-advanced",
+            "version": "5.6.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/tinymce-advanced/",
+                "reference": "tags/5.6.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/tinymce-advanced.5.6.0.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/tinymce-advanced/"
         },
         {
             "name": "wpackagist-plugin/vk-block-patterns",
