@@ -226,7 +226,8 @@
     "wpackagist-plugin/wp-dashboard-notes": "*",
     "wpackagist-plugin/wp-fastest-cache": "*",
     "wpackagist-plugin/wp-mail-smtp": "*",
-    "wpackagist-plugin/wp-multibyte-patch": "*"
+    "wpackagist-plugin/wp-multibyte-patch": "*",
+    "wpackagist-plugin/wpvr": "*"
   },
   "require-dev": {
     "roave/security-advisories": "dev-master",
