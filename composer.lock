@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2ad92fe745871e001ac58531e89ba051",
+    "content-hash": "e436793ca511dcc512ed856b29c49687",
     "packages": [
         {
             "name": "advanced-custom-fields/advanced-custom-fields-pro",
@@ -1416,6 +1416,24 @@
             "homepage": "https://wordpress.org/plugins/duplicate-post/"
         },
         {
+            "name": "wpackagist-plugin/export-media-library",
+            "version": "3.0.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/export-media-library/",
+                "reference": "tags/3.0.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/export-media-library.3.0.1.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/export-media-library/"
+        },
+        {
             "name": "wpackagist-plugin/google-sitemap-generator",
             "version": "4.1.1",
             "source": {
@@ -1486,6 +1504,24 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/loginizer/"
+        },
+        {
+            "name": "wpackagist-plugin/media-alt-renamer",
+            "version": "0.0.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/media-alt-renamer/",
+                "reference": "tags/0.0.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/media-alt-renamer.0.0.1.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/media-alt-renamer/"
         },
         {
             "name": "wpackagist-plugin/mw-wp-form",
