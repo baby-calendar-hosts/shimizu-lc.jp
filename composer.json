@@ -181,7 +181,6 @@
     "advanced-custom-fields/advanced-custom-fields-pro": "*",
     "composer/installers": "^2.2",
     "koodimonni-language/core-ja": "*",
-    "koodimonni/composer-dropin-installer": "*",
     "koodimonni-plugin-language/breadcrumb-navxt-ja": "*",
     "koodimonni-plugin-language/classic-editor-ja": "*",
     "koodimonni-plugin-language/custom-post-type-ui-ja": "*",
@@ -192,6 +191,7 @@
     "koodimonni-plugin-language/wordpress-importer-ja": "*",
     "koodimonni-plugin-language/wp-fastest-cache-ja": "*",
     "koodimonni-plugin-language/xml-sitemap-feed-ja": "*",
+    "koodimonni/composer-dropin-installer": "*",
     "oscarotero/env": "^2.1",
     "roots/bedrock-autoloader": "^1.0",
     "roots/wordpress": "^6.3",
@@ -222,6 +222,7 @@
     "wpackagist-plugin/wp-fastest-cache": "*",
     "wpackagist-plugin/wp-mail-smtp": "*",
     "wpackagist-plugin/wp-multibyte-patch": "*",
+    "wpackagist-plugin/wp-yomigana": "*",
     "wpackagist-plugin/wpvr": "*",
     "wpackagist-plugin/xml-sitemap-feed": "*"
   },
