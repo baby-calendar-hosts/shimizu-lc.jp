@@ -215,6 +215,7 @@
     "wpackagist-plugin/instagram-feed": "*",
     "wpackagist-plugin/my-calendar": "3.8.0",
     "wpackagist-plugin/post-types-order": "*",
+    "wpackagist-plugin/redirection": "*",
     "wpackagist-plugin/reusable-blocks-extended": "*",
     "wpackagist-plugin/seo-simple-pack": "*",
     "wpackagist-plugin/show-current-template": "*",
